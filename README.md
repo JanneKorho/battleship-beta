@@ -1,6 +1,6 @@
 # battleship-beta
 
-Battleship game made as an programming exercise using Python for backend functionality and tkinter for GUI.
+Battleship game made as an programming exercise using Python and Tkinter GUI library.
 
 Ships are randomly generated on the grids. In the current version there are three (3) ships on both sides of each size (1,2 and 3 tiles).
 
