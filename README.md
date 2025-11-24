@@ -7,7 +7,7 @@ Ships are randomly generated on the grids. In the current version there are thre
 # How to run
 
 1. Download the project
-2. Open the file named battleship.py using (make sure you have Python 3.+ installed on your computer)
+2. Open the file named battleship.py using (make sure you have Python 3.+ and Tkinter installed)
 3. Run the game
 
 https://www.tutorialspoint.com/how-to-install-python-in-windows#
